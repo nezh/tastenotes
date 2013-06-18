@@ -6,4 +6,5 @@ Testar lite git.
 
 print "Hello World!";
 
+print "Hej";
 ?>
